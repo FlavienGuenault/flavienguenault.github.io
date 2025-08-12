@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.flavienguenault.buddycam",
+      "sha256_cert_fingerprints": [
+        "92:EF:14:55:2E:4C:AE:C8:C7:3E:AD:FA:E4:00:A4:2B:DD:D4:4E:3F:EF:7B:02:26:CB:48:B1:84:F6:40:8D:56"
+      ]
+    }
+  }
+]
